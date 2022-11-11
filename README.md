@@ -6,13 +6,15 @@ Repositório que reúne os desafios propostos pelo [#7DaysOfCode](https://7dayso
 ## Desafios
 - [X] **Criar** repositório no GitHub.
 - [X] Alterar a descrição do seu **perfil**.
-- [ ] Escrever um código no GitHub.
+- [X] Escrever um código no GitHub.
 - [ ] Fazer o upload de pasta.
-- [X] Realizar commit.
+- [X] Realizar **commit**.
 - [X] **Clonar** o repositório para editá-lo localmente, pela sua IDE.
 - [X] **Alterar** arquivo localmente com a IDE.
 - [X] **Realizar** o commit dessas alterações.
 - [X] **Reverter** o commit.
+- [ ] Simular um **conflito**
+- [ ] Fazer o deploy no Github Pages
 
 ## Primeiros Comandos
 No Repositório Local podemos ...
@@ -52,3 +54,11 @@ No Repositório Local podemos ...
 ##### Comitar informando mensagem
 
 	git commit meuarquivo.txt -m "minha mensagem de commit"
+
+### Visualizar histórico
+	
+	git log
+
+### Reverter commit
+	
+	git revert #hashd_do_commit
