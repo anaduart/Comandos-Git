@@ -3,6 +3,14 @@ Repositório que reúne os desafios propostos pelo [#7DaysOfCode](https://7dayso
 
 ![capa](https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/03/Como-Renomear-um-Branch-do-Git.png)
 
+## Desafios
+- [X] **Criar** repositório no GitHub.
+- [X] Alterar a descrição do seu **perfil**.
+- [ ] Escrever um código no GitHub.
+- [ ] Fazer o upload de pasta.
+- [X] Realizar commit.
+- [ ] **Clonar** o repositório para editá-lo localmente, pela sua IDE.
+
 ## Primeiros Comandos
 No Repositório Local podemos ...
 
