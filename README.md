@@ -9,7 +9,9 @@ Repositório que reúne os desafios propostos pelo [#7DaysOfCode](https://7dayso
 - [ ] Escrever um código no GitHub.
 - [ ] Fazer o upload de pasta.
 - [X] Realizar commit.
-- [ ] **Clonar** o repositório para editá-lo localmente, pela sua IDE.
+- [X] **Clonar** o repositório para editá-lo localmente, pela sua IDE.
+- [X] **Alterar** arquivo localmente com a IDE
+- [X] **Realizar** o commit dessas alterações
 
 ## Primeiros Comandos
 No Repositório Local podemos ...
