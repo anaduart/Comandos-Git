@@ -12,6 +12,8 @@ Repositório que reúne os desafios propostos pelo [#7DaysOfCode](https://7dayso
 - [X] **Clonar** o repositório para editá-lo localmente, pela sua IDE.
 - [X] **Alterar** arquivo localmente com a IDE
 - [X] **Realizar** o commit dessas alterações
+- [ ] reverter o commit 
+
 
 ## Primeiros Comandos
 No Repositório Local podemos ...
