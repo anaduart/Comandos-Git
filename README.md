@@ -13,7 +13,7 @@ Repositório que reúne os desafios propostos pelo [#7DaysOfCode](https://7dayso
 - [X] **Alterar** arquivo localmente com a IDE.
 - [X] **Realizar** o commit dessas alterações.
 - [X] **Reverter** o commit.
-- [ ] Simular um **conflito**
+- [X] Simular um **conflito**
 - [ ] Fazer o deploy no Github Pages
 
 ## Primeiros Comandos
@@ -64,3 +64,5 @@ No Repositório Local podemos ...
 	git revert #hashd_do_commit
 
 ### Atualizar repositório local com o Remoto
+	
+	git pull
