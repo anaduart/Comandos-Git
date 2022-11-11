@@ -62,3 +62,5 @@ No Repositório Local podemos ...
 ### Reverter commit
 	
 	git revert #hashd_do_commit
+
+### Atualizar repositório local com o Remoto
