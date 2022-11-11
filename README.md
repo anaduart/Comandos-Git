@@ -10,8 +10,9 @@ Repositório que reúne os desafios propostos pelo [#7DaysOfCode](https://7dayso
 - [ ] Fazer o upload de pasta.
 - [X] Realizar commit.
 - [X] **Clonar** o repositório para editá-lo localmente, pela sua IDE.
-- [X] **Alterar** arquivo localmente com a IDE
-- [X] **Realizar** o commit dessas alterações
+- [X] **Alterar** arquivo localmente com a IDE.
+- [X] **Realizar** o commit dessas alterações.
+- [X] **Reverter** o commit.
 
 ## Primeiros Comandos
 No Repositório Local podemos ...
